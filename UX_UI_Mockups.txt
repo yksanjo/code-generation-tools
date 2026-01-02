@@ -1,0 +1,85 @@
+# Code Generation Tools - UX/UI Assets
+
+## Screenshots Description
+
+### 1. Main Demo Screenshot
+- **File**: code-generation-demo.png
+- **Description**: Show terminal with code generation commands and output
+- **Dimensions**: 800x400 pixels
+- **Content**: 
+  - Left side: Command line showing code generation commands
+  - Right side: Generated code files in a file explorer view
+  - Highlighted areas showing key features
+
+### 2. Template System Screenshot
+- **File**: template-system.png
+- **Description**: Show the template system in action
+- **Dimensions**: 800x400 pixels
+- **Content**:
+  - Terminal showing the list of available templates
+  - Example template file content
+  - Generated output from the template
+
+### 3. Project Scaffolding Screenshot
+- **File**: project-scaffolding.png
+- **Description**: Show the output of creating a new project
+- **Dimensions**: 800x400 pixels
+- **Content**:
+  - Command line with create-package command
+  - Tree structure of the created project
+  - Highlighted areas showing key files created
+
+## Badge Assets
+
+### 1. Main Project Badge
+- **File**: code-generation-badge.png
+- **Description**: A badge showing the main features of the tool
+- **Dimensions**: 200x100 pixels
+- **Content**: 
+  - Icon: Code brackets with generation arrow
+  - Text: "Code Generation Tools"
+  - Tagline: "Accelerate Your Development"
+
+### 2. Feature Badges
+- **File**: feature-badges.png (composite image with multiple badges)
+- **Description**: Individual badges for each feature
+- **Dimensions**: 150x50 pixels each
+- **Content**:
+  - "Template System" badge
+  - "Project Scaffolding" badge
+  - "Class Generation" badge
+  - "Test Generation" badge
+
+## Icon Assets
+
+### 1. Application Icon
+- **File**: code-generation-icon.png
+- **Description**: Main application icon showing code generation
+- **Dimensions**: 512x512 pixels
+- **Content**:
+  - Code brackets symbol
+  - Generation/creation arrow
+  - Color scheme: Development blues and greens
+  - Clean, modern design
+
+### 2. Favicon
+- **File**: favicon.ico
+- **Description**: Small icon for web presence
+- **Dimensions**: 32x32 pixels
+
+## Color Scheme
+- Primary: #9b59b6 (template purple)
+- Secondary: #3498db (code blue)
+- Accent: #2ecc71 (success green)
+- Background: #ecf0f1 (light gray)
+- Text: #2c3e50 (dark gray)
+
+## Typography
+- Headings: Sans-serif, bold
+- Body text: Sans-serif, regular
+- Code: Monospace font
+
+## Animation Suggestions
+- A short GIF showing the code generation process: template → variables → generated code
+- Duration: 3-5 seconds
+- File: generation-demo.gif
