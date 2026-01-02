@@ -1,9 +1,11 @@
 # Code Generation Tools
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![GitHub](https://img.shields.io/badge/GitHub-yksanjo%2Fcode--generation--tools-181717?logo=github)](https://github.com/yksanjo/code-generation-tools)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/status-stable-success.svg)](https://shields.io/)
 [![Template System](https://img.shields.io/badge/template-system-9b59b6.svg)](https://shields.io/)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 > Template-based code generation tools for accelerating development
 
@@ -41,7 +43,7 @@ Code Generation Tools is a comprehensive suite of template-based utilities for g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/code-generation-tools.git
+   git clone https://github.com/yksanjo/code-generation-tools.git
    cd code-generation-tools
    ```
 
@@ -187,7 +189,7 @@ To add a new template:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/code-generation-tools.git
+git clone https://github.com/yksanjo/code-generation-tools.git
 cd code-generation-tools
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -203,8 +205,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 - Check the [documentation](docs/)
-- Open an [issue](https://github.com/yourusername/code-generation-tools/issues)
-- Submit a [pull request](https://github.com/yourusername/code-generation-tools/pulls)
+- Open an [issue](https://github.com/yksanjo/code-generation-tools/issues)
+- Submit a [pull request](https://github.com/yksanjo/code-generation-tools/pulls)
 
 ## 🙏 Acknowledgments
 
